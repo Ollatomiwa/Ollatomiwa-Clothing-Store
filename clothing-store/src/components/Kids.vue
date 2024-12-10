@@ -30,7 +30,6 @@
                         <a class="nav-link " href="#shoes"><p class="text-light">Shoes</p></a>
                     </li>
                    
-                    </li>
                     <li class="nav-item ms-2 d-md-inline">
                      <a class="btn btn-secondary" href="#shorts">Buy now</a>
                     </li>
@@ -43,8 +42,8 @@
         <div class="container-lg">
             <div class="row justify-content-center align-items-center  ">
                 <div  class=" col-md-5 text-align-center">
-                    <h1>
-                        <div class="display-2 text-secondary"> </h1>
+                    
+                        <div class="display-2 text-secondary"> 
                          </div>   
                  </div>
                 <div class="col-md-12 text-center  d-md-block" >
@@ -102,6 +101,7 @@
                         </div>
                     </div>
             </div>
+            </div>
         </div>
       
     </section>
@@ -154,6 +154,7 @@
                     </div>
             </div>
         </div>
+        </div>
       
     </section>
     <section id="shoes" class=" mt-5">
@@ -205,6 +206,6 @@
                     </div>
             </div>
         </div>
-      
+      </div>
     </section>
 </template>
