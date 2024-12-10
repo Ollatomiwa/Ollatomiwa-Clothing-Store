@@ -47,7 +47,7 @@
                          </div>   
                  </div>
                 <div class="col-md-12 text-center d-md-block" >
-                    <img class="img-fluid " src="img/menshopping2.jpg" alt="clothing store">
+                    <img class="img-fluid " src="#" alt="clothing store">
                                       
                 </div>             
             </div>           
@@ -170,7 +170,7 @@
                         <div class="card-body text-center py-4  text-secondary" >
                             <h4 class="card-tittle"></h4>
                             <div class="col-md-12 text-center  d-md-block" >
-                                <img class="img-fluid " src="img/shoes3.jpg" alt="shoes">
+                                <img class="img-fluid " src="#" alt="shoes">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$169.99</p>
@@ -184,7 +184,7 @@
                         <div class="card-body text-center py-4 text-secondary" >
                             <h4 class="card-tittle"></h4>
                             <div class="col-md-12 text-center  d-md-block" >
-                                <img class="img-fluid " src="img/shoes.jpg" alt="shoes">
+                                <img class="img-fluid " src="#" alt="shoes">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$154.99</p>
@@ -197,7 +197,7 @@
                         <div class="card-body text-center py-4  text-secondary" >
                             <h4 class="card-tittle"></h4>
                             <div class="col-md-12 text-center  d-md-block" >
-                                <img class="img-fluid " src="img/shoes2.jpeg" alt="shoes">
+                                <img class="img-fluid " src="#" alt="shoes">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$139.99</p>

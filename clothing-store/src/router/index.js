@@ -23,7 +23,7 @@ const router = createRouter({
       path: '/kids',
       name: 'kids',
       componenent: Kids,
-    }
+    },
     {
       path: '/ladies',
       name: 'ladies',
