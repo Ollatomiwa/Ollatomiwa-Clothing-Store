@@ -47,7 +47,7 @@
                          </div>   
                  </div>
                 <div class="col-md-12 text-center  d-md-block" >
-                    <img class="img-fluid " src="img/kf.jpg" alt="clothing store">
+                    <img class="img-fluid " src="../assets/img/kf.jpg" alt="clothing store">
                                       
                 </div>             
             </div>           
@@ -66,7 +66,7 @@
                         <div class="card-body text-center py-4  text-secondary" >
                             <h4 class="card-tittle">Boys Collection</h4>
                             <div class="col-md-12 text-center d-md-block" >
-                                <img class="img-fluid " src="img/Kids-Shorts-3pcs.jpg" alt="shorts">
+                                <img class="img-fluid " src="../assets/img/Kids-Shorts-3pcs.jpg" alt="shorts">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$99.99</p>
@@ -80,7 +80,7 @@
                         <div class="card-body text-center py-4 text-secondary" >
                             <h4 class="card-tittle">UNISEX (20% Discount)</h4>
                             <div class="col-md-12 text-center  d-md-block" >
-                                <img class="img-fluid " src="img/kids-short.jpg" alt="shorts">
+                                <img class="img-fluid " src="../assets/img/kids-short.jpg" alt="shorts">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$139.99</p>
@@ -93,7 +93,7 @@
                         <div class="card-body text-center py-4  text-secondary" >
                             <h4 class="card-tittle">Girls Collection</h4>
                             <div class="col-md-12 text-center  d-md-block" >
-                                <img class="img-fluid " src="img/kidsshorts.jpg" alt="shorts">
+                                <img class="img-fluid " src="../assets/img/kidsshorts.jpg" alt="shorts">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$99.99</p>
@@ -118,7 +118,7 @@
                         <div class="card-body text-center py-4  text-secondary" >
                             <h4 class="card-tittle">Boys Collection</h4>
                             <div class="col-md-12 text-center d-md-block" >
-                                <img class="img-fluid " src="img/kidstop.jpg" alt="shorts">
+                                <img class="img-fluid " src="../assets/img/kidstop.jpg" alt="shorts">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$99.99</p>
@@ -132,7 +132,7 @@
                         <div class="card-body text-center py-4 text-secondary" >
                             <h4 class="card-tittle">UNISEX (20% Discount)</h4>
                             <div class="col-md-12 text-center d-md-block" >
-                                <img class="img-fluid " src="img/kidtop.jpg" alt="shorts">
+                                <img class="img-fluid " src="../assets/img/kidtop.jpg" alt="shorts">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$199.99</p>
@@ -145,7 +145,7 @@
                         <div class="card-body text-center py-4  text-secondary" >
                             <h4 class="card-tittle">Girls Collection</h4>
                             <div class="col-md-12 text-center d-md-block" >
-                                <img class="img-fluid " src="img/kidtop2.jpg" alt="shorts">
+                                <img class="img-fluid " src="../assets/img/kidtop2.jpg" alt="shorts">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$99.99</p>
@@ -170,7 +170,7 @@
                         <div class="card-body text-center py-4  text-secondary" >
                             <h4 class="card-tittle"> </h4>
                             <div class="col-md-12 text-center  d-md-block" >
-                                <img class="img-fluid " src="img/kidsshoes.png" alt="shoes">
+                                <img class="img-fluid " src="../assets/img/kidsshoes.png" alt="shoes">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$99.99</p>
@@ -184,7 +184,7 @@
                         <div class="card-body text-center py-4 text-secondary" >
                             <h4 class="card-tittle">UNISEX (20% Discount)</h4>
                             <div class="col-md-12 text-center d-md-block" >
-                                <img class="img-fluid " src="img/kidshoe.jpg" alt="shoes">
+                                <img class="img-fluid " src="../assets/img/kidshoe.jpg" alt="shoes">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$149.99</p>
@@ -197,7 +197,7 @@
                         <div class="card-body text-center py-4  text-secondary" >
                             <h4 class="card-tittle"></h4>
                             <div class="col-md-12 text-center d-md-block" >
-                                <img class="img-fluid " src="img/kidsshoes2.jpg" alt="shoes">
+                                <img class="img-fluid " src="../assets/img/kidsshoes2.jpg" alt="shoes">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$99.99</p>

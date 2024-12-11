@@ -66,7 +66,7 @@
                         <div class="card-body text-center py-4  text-secondary" >
                             <h4 class="card-tittle"></h4>
                             <div class="col-md-12 text-center d-md-block" >
-                                <img class="img-fluid " src="img/menshort2.jpg" alt="shorts">
+                                <img class="img-fluid " src="../assets/img/menshort2.jpg" alt="shorts">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$399.99</p>
@@ -80,7 +80,7 @@
                         <div class="card-body text-center py-4 text-secondary" >
                             <h4 class="card-tittle"></h4>
                             <div class="col-md-12 text-center  d-md-block" >
-                                <img class="img-fluid " src="img/menshort2.jpg" alt="shorts">
+                                <img class="img-fluid " src="../assets/img/menshort2.jpg" alt="shorts">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$499.99</p>
@@ -93,7 +93,7 @@
                         <div class="card-body text-center py-4  text-secondary" >
                             <h4 class="card-tittle"> </h4>
                             <div class="col-md-12 text-center d-md-block" >
-                                <img class="img-fluid " src="img/mensshort.jpg" alt="shorts">
+                                <img class="img-fluid " src="../assets/img/mensshort.jpg" alt="shorts">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$499.99</p>
@@ -118,7 +118,7 @@
                         <div class="card-body text-center py-4  text-secondary" >
                             <h4 class="card-tittle"> </h4>
                             <div class="col-md-12 text-center d-md-block" >
-                                <img class="img-fluid " src="img/tops.jpg" alt="tops">
+                                <img class="img-fluid " src="../assets/img/tops.jpg" alt="tops">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$179.99</p>
@@ -132,7 +132,7 @@
                         <div class="card-body text-center py-4 text-secondary" >
                             <h4 class="card-tittle">=)</h4>
                             <div class="col-md-12 text-center  d-md-block" >
-                                <img class="img-fluid " src="img/mentop2.jpg" alt="tops">
+                                <img class="img-fluid " src="../assets/img/mentop2.jpg" alt="tops">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$239.99</p>
@@ -145,7 +145,7 @@
                         <div class="card-body text-center py-4  text-secondary" >
                             <h4 class="card-tittle">=</h4>
                             <div class="col-md-12 text-center  d-md-block" >
-                                <img class="img-fluid " src="img/mentop.jpg" alt="tops">
+                                <img class="img-fluid " src="../assets/img/mentop.jpg" alt="tops">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$349.99</p>

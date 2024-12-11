@@ -30,7 +30,7 @@
                         <a class="nav-link " href="#shoes"><p class="text-light">Shoes</p></a>
                     </li>
                    
-                    </li>
+                   
                     <li class="nav-item ms-2 d-md-inline">
                      <a class="btn btn-secondary" href="#shorts">Buy now</a>
                     </li>
@@ -43,12 +43,12 @@
         <div class="container-lg">
             <div class="row justify-content-center align-items-center  ">
                 <div  class=" col-md-5 text-align-center">
-                    <h1>
-                        <div class="display-2 text-secondary"> </h1>
+                  
+                        <div class="display-2 text-secondary"> 
                          </div>   
                  </div>
                 <div class="col-md-12 text-center  d-md-block" >
-                    <img class="img-fluid " src="img/cf.jpg" alt="clothing store">
+                    <img class="img-fluid " src="../assets/img/cf.jpg" alt="clothing store">
                                       
                 </div>             
             </div>           
@@ -67,7 +67,7 @@
                         <div class="card-body text-center py-4  text-secondary" >
                             <h4 class="card-tittle">Boys Collection</h4>
                             <div class="col-md-12 text-center d-md-block" >
-                                <img class="img-fluid " src="img/shortldies.jpg" alt="shorts">
+                                <img class="img-fluid " src="../assets/img/shortldies.jpg" alt="shorts">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$399.99</p>
@@ -81,7 +81,7 @@
                         <div class="card-body text-center py-4 text-secondary" >
                             <h4 class="card-tittle">UNISEX (20% Discount)</h4>
                             <div class="col-md-12 text-center  d-md-block" >
-                                <img class="img-fluid " src="img/shortladies2.jpg" alt="shorts">
+                                <img class="img-fluid " src="../assets/img/shortladies2.jpg" alt="shorts">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$399.99</p>
@@ -94,13 +94,14 @@
                         <div class="card-body text-center py-4  text-secondary" >
                             <h4 class="card-tittle">Girls Collection</h4>
                             <div class="col-md-12 text-center  d-md-block" >
-                                <img class="img-fluid " src="img/shortladies.jpg" alt="shorts">
+                                <img class="img-fluid " src="../assets/img/shortladies.jpg" alt="shorts">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$299.99</p>
                             <a href="#" class="btn btn-outline-primary btn-lg mt-3">Buy Now</a>
                         </div>
                     </div>
+            </div>
             </div>
         </div>
       
@@ -118,7 +119,7 @@
                         <div class="card-body text-center py-4  text-secondary" >
                             <h4 class="card-tittle"></h4>
                             <div class="col-md-12 text-center  d-md-block" >
-                                <img class="img-fluid " src="img/womentop.jpg" alt="shorts">
+                                <img class="img-fluid " src="../assets/img/womentop.jpg" alt="shorts">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$499.99</p>
@@ -132,7 +133,7 @@
                         <div class="card-body text-center py-4 text-secondary" >
                             <h4 class="card-tittle"></h4>
                             <div class="col-md-12 text-center  d-md-block" >
-                                <img class="img-fluid " src="img/womentop2.jpg" alt="shorts">
+                                <img class="img-fluid " src="../assets/img/womentop2.jpg" alt="shorts">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$439.99</p>
@@ -145,13 +146,14 @@
                         <div class="card-body text-center py-4  text-secondary" >
                             <h4 class="card-tittle"></h4>
                             <div class="col-md-12 text-center  d-md-block" >
-                                <img class="img-fluid " src="img/womentop3.jpg" alt="shorts">
+                                <img class="img-fluid " src="../assets/img/womentop3.jpg" alt="shorts">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$439.99</p>
                             <a href="#" class="btn btn-outline-primary btn-lg mt-3">Buy Now</a>
                         </div>
                     </div>
+            </div>
             </div>
         </div>
       
@@ -169,7 +171,7 @@
                         <div class="card-body text-center py-4  text-secondary" >
                             <h4 class="card-tittle">Ladies Collection (10% Discount closing soon)</h4>
                             <div class="col-md-12 text-center d-md-block" >
-                                <img class="img-fluid " src="img/ladiesshoes.jpg" alt="shoes">
+                                <img class="img-fluid " src="../assets/img/ladiesshoes.jpg" alt="shoes">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$399.99</p>
@@ -183,7 +185,7 @@
                         <div class="card-body text-center py-4 text-secondary" >
                             <h4 class="card-tittle"> </h4>
                             <div class="col-md-12 text-center d-md-block" >
-                                <img class="img-fluid " src="img/shoesladies.jpg" alt="shoes">
+                                <img class="img-fluid " src="../assets/img/shoesladies.jpg" alt="shoes">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$499.99</p>
@@ -196,7 +198,7 @@
                         <div class="card-body text-center py-4  text-secondary" >
                             <h4 class="card-tittle"></h4>
                             <div class="col-md-12 text-center d-md-block" >
-                                <img class="img-fluid " src="img/boots.jpg" alt="shoes">
+                                <img class="img-fluid " src="../assets/img/boots.jpg" alt="shoes">
                                                   
                             </div>
                             <p class="display-5 my-4 text-primary fw-bold ">$349.99</p>
@@ -204,7 +206,7 @@
                         </div>
                     </div>
             </div>
+            </div>
         </div>
-      
     </section>
 </template>
