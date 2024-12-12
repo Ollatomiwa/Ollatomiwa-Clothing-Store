@@ -20,13 +20,14 @@
                 id="main-nav">
                     <ul class="navbar-nav">
                      <li class="nav-item ">
-                      <a class="nav-link" href="Kid.html"  target="_blank"><p class="text-light">Kids Collection</p></a>
+                      <router-link class="nav-link" to="/kids"  target="_blank"><p class="text-light">Kids Collection</p>
+                      </router-link>
                      </li>
                      <li class="nav-item">
-                      <a class="nav-link" href="mens.html"  target="_blank"><p class="text-light">Mens Collection</p> </a>
+                      <router-link class="nav-link" to="/men"  target="_blank"><p class="text-light">Mens Collection</p> </router-link>
                      </li>
                      <li class="nav-item ">
-                         <a class="nav-link " href="Ladies.html"  target="_blank"><p class="text-light">Ladies Collection</p></a>
+                         <router-link class="nav-link " to="/ladies"  target="_blank"><p class="text-light">Ladies Collection</p></router-link>
                      </li>
                      
                      </ul>
