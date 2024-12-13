@@ -3,41 +3,6 @@
 </script>
 
 <template>
-    <nav class="navbar navbar-expand-md navbar-light bg-black">
-        <div class="container-xxl">
-            <a href="#intro" class="navbar-brand" >
-                <i class="bi bi-book-half"></i>
-                <span class="fw-bold text-light">
-                 Olla Clothing Store
-                </span>
-            </a>
-         <!--toggle for mobile nav-->
-         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main-nav" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-         </button>
-
-            <!--Navbar links-->
-            <div class="collapse-navbar-collapse justify-content-end align-center" 
-            id="main-nav">
-                <ul class="navbar-nav">
-                    <li class="nav-item ">
-                     <a class="nav-link" href="#shorts"><p class="text-light">Shorts</p></a>
-                    </li>
-                    <li class="nav-item">
-                     <a class="nav-link" href="#tops"><p class="text-light">Tops</p> </a>
-                    </li>
-                    <li class="nav-item ">
-                        <a class="nav-link " href="#shoes"><p class="text-light">Shoes</p></a>
-                    </li>
-                   
-                    <li class="nav-item ms-2 d-md-inline">
-                     <a class="btn btn-secondary" href="#shorts">Buy now</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-    <section id="Intro">
         
         <div class="container-lg">
             <div class="row justify-content-center align-items-center  ">
@@ -52,9 +17,7 @@
                 </div>             
             </div>           
         </div>      
-    </section>
-    <section id="shorts" class=" mt-1">
-        <div class="container-lg">
+        <div class="container-lg mt-1">
             <div class="text-center text-secondary">
                 <h2>Kids Collection(Shorts)</h2>
                 <p class="lead text-secondary" > Happy Shopping! </p>
@@ -104,9 +67,8 @@
             </div>
         </div>
       
-    </section>
-    <section id="tops" class=" mt-5">
-        <div class="container-lg">
+    
+        <div class="container-lg mt-5">
             <div class="text-center text-secondary">
                 <h2>Kids Collection(Tops)</h2>
                 <p class="lead text-secondary" > Happy Shopping! </p>
@@ -156,9 +118,7 @@
         </div>
         </div>
       
-    </section>
-    <section id="shoes" class=" mt-5">
-        <div class="container-lg">
+        <div class="container-lg mt-5">
             <div class="text-center text-secondary">
                 <h2>Kids Collection(Shoes)</h2>
                 <p class="lead text-secondary" > Happy Shopping! </p>
@@ -207,5 +167,8 @@
             </div>
         </div>
       </div>
-    </section>
+
 </template>
+<style scoped>
+
+</style>

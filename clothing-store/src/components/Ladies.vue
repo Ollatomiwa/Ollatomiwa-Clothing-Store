@@ -3,42 +3,8 @@
 </script>
 
 <template>
-    <nav class="navbar navbar-expand-md navbar-light bg-black">
-        <div class="container-xxl">
-            <a href="#intro" class="navbar-brand" >
-                <i class="bi bi-book-half"></i>
-                <span class="fw-bold text-light">
-                 Olla Clothing Store
-                </span>
-            </a>
-         <!--toggle for mobile nav-->
-         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main-nav" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-         </button>
-
-            <!--Navbar links-->
-            <div class="collapse-navbar-collapse justify-content-end align-center" 
-            id="main-nav">
-                <ul class="navbar-nav">
-                    <li class="nav-item ">
-                     <a class="nav-link" href="#shorts"><p class="text-light">Shorts</p></a>
-                    </li>
-                    <li class="nav-item">
-                     <a class="nav-link" href="#tops"><p class="text-light">Tops</p> </a>
-                    </li>
-                    <li class="nav-item ">
-                        <a class="nav-link " href="#shoes"><p class="text-light">Shoes</p></a>
-                    </li>
-                   
-                   
-                    <li class="nav-item ms-2 d-md-inline">
-                     <a class="btn btn-secondary" href="#shorts">Buy now</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-    <section id="Intro">
+   
+    <section>
         
         <div class="container-lg">
             <div class="row justify-content-center align-items-center  ">
@@ -210,3 +176,15 @@
         </div>
     </section>
 </template>
+<style scoped>
+    body{
+            color: white;
+            background-color: white;
+            
+        }
+        section{
+            padding: 60px;
+            
+        }
+</style>
+

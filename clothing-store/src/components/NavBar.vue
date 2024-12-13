@@ -3,7 +3,7 @@
 </script>
 
 <template>
-     <nav class="navbar navbar-expand-md navbar-light bg-black py-1">
+    <nav class="navbar navbar-expand-md navbar-light bg-black py-1">
         <div class="container-xxl">
             <a href="#intro" class="navbar-brand" >
                 <i class="bi bi-book-half"></i>
@@ -21,7 +21,7 @@
                 id="navbarNavDropdown">
                     <ul class="navbar-nav">
                      <li class="nav-item ">
-                      <router-link class="nav-link" to="/kids"><p class="text-light">Kids Collection</p>
+                      <router-link class="nav-link" to="/"><p class="text-light">Kids Collection</p>
                       </router-link>
                      </li>
                      <li class="nav-item">
@@ -36,43 +36,4 @@
                 </div>
          </div>        
     </nav> 
-
-    <section id="Intro">
-        
-        <div class="container-lg">
-            <div class="row justify-content-center align-items-center  ">
-                <div  class=" col-md-5 text-align-center">
-                    
-                        <div class="display-2 text-secondary"></div>   
-                 </div>
-                           
-            </div>           
-        </div>      
-    </section>
-    <article>
-        <div class="text-center">
-            <button type="button" class="btn btn-danger btn-lg  text-white px-5  align-item-center ">Get Started</button>
-        </div>
-        
-    </article>
 </template>
-
-<style scoped>
-
-body {
-        background-color: white;
-       
-    }
-    section{
-      
-        padding-left: 290px;
-        padding-right: 130px;
-        background-image: url(../assets/img/main.jpg);
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: contain;
-        height: 570px;
-        
-
-    }
-</style>

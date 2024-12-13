@@ -1,33 +1,29 @@
-import Home from '@/components/Home.vue'
+
 import Kids from '@/components/Kids.vue'
 import Ladies from '@/components/Ladies.vue'
 import Men from '@/components/Men.vue'
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHashHistory(),
   routes: [
-    {
-      path: '/',
-      name: 'home',
-      component: Home,
-    },
+   
     {
       path: '/men',
       name: 'men',
-      componenent: Men,
+      component: Men,
     },
 
     {
-      path: '/kids',
+      path: '/',
       name: 'kids',
-      componenent: Kids,
+      component: Kids,
     },
     {
       path: '/ladies',
       name: 'ladies',
-      componenent: Ladies,
+      component: Ladies,
     }
 
   ],
