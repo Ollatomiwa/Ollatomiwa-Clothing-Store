@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <nav class="navbar navbar-expand-md navbar-light bg-black py-1">
+    <nav class="navbar fixed-top navbar-expand-md navbar-light bg-black py-1">
         <div class="container-xxl">
             <a href="#intro" class="navbar-brand" >
                 <i class="bi bi-book-half"></i>
@@ -17,7 +17,7 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
              <!--Navbar links-->
-               <div class="collapse navbar-collapse justify-content-end align-center" 
+               <div class="collapse navbar-collapse justify-content-around align-center" 
                 id="navbarNavDropdown">
                     <ul class="navbar-nav">
                      <li class="nav-item ">
