@@ -1,4 +1,8 @@
 import './assets/main.css'
+
+import {createPinia} from 'pinia'
+import Toast from 'vue-toastification'
+
 import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap"
 
@@ -6,8 +10,8 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
 
-const app = createApp(App)
-
-app.use(router)
-
-app.mount('#app')
+createApp(App)
+    .use(createPinia())
+    .use(Toast)
+    .use(router)
+    .mount('#app')
