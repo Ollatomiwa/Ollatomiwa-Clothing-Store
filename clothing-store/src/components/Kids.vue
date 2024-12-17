@@ -69,7 +69,7 @@ const shoes1 = ref(kidshoe1);
                     <div class="card border-0">
                         
                         <div class="card-body text-center py-4 text-secondary" >
-                            <h4 class="card-tittle">UNISEX (20% Discount)</h4>
+                            <h4 class="card-tittle">UNISEX</h4>
                             <div class="col-md-12 text-center  d-md-block" >
                                 <img class="img-fluid " :src="kidshort1" alt="shorts">
                                                   
