@@ -3,6 +3,7 @@ import Kids from '@/components/Kids.vue'
 import Ladies from '@/components/Ladies.vue'
 import Men from '@/components/Men.vue'
 import { createRouter, createWebHashHistory } from 'vue-router'
+import Home from '../components/Home.vue'
 
 
 const router = createRouter({
@@ -17,8 +18,8 @@ const router = createRouter({
 
     {
       path: '/',
-      name: 'kids',
-      component: Kids,
+      name: 'home',
+      component: Home,
     },
     {
       path: '/ladies',
